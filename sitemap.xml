@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nuthinbutworlds.com/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://nuthinbutworlds.com/assets/visuals/nuthinbut-worlds-hero.jpg</image:loc>
+      <image:title>Nuthin But Worlds creative universe</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nuthinbutworlds.com/assets/visuals/joshua-winder-author.jpg</image:loc>
+      <image:title>Joshua Winder, author and artist</image:title>
+    </image:image>
+  </url>
+</urlset>
